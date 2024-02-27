@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingireland.ie/images/fields/GIF/coding.gif">
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **My Personal Portfolio & FreeCodeCamp Projects**
 
-- 🌱 I’m currently learning **Flutter, Laravel, MySQL & PHP**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **HTML, CSS, Python**
 
