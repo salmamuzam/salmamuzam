@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Salma</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingireland.ie/images/fields/GIF/coding.gif">
 
 - 🔭 I’m currently working on building my **Project Portfolio**
