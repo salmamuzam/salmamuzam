@@ -1,11 +1,11 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6222230.jpg)
-<h1 align="center">Hi 👋, I'm Fathima Salma Muzammil </h1>
-<h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Salma</h1>
+<h3 align="center">A passionate Software Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingireland.ie/images/fields/GIF/coding.gif">
 
-- 🔭 I’m currently working on building my **personal portfolio**
+- 🔭 I’m currently working on building my **project portfolio**
 
-- 🌱 I’m currently learning **Responsive Web Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **HTML, CSS, Python**
 
