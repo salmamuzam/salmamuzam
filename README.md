@@ -1,6 +1,9 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e52a126f-4cd5-42f4-a000-b3c81fbf46c5" />
+
+<img width="3840" height="2160" alt="eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947" src="https://github.com/user-attachments/assets/7ec8f60e-3903-4566-90da-5980dbc23f5d" />
+
 <h1 align="center">Hi , I'm Salma</h1>
 <h3 align="center">A passionate computer science student from Sri Lanka</h3>
+
 
 - 🔭 I’m currently working on building **my personal portfolio**
 
