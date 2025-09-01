@@ -1,6 +1,7 @@
 ![Header](./your-header-image-name.png)
 <h1 align="center">Hi , I'm Salma</h1>
 <h3 align="center">A passionate computer science student from Sri Lanka</h3>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e52a126f-4cd5-42f4-a000-b3c81fbf46c5" />
 
 - 🔭 I’m currently working on building **my personal portfolio**
 
