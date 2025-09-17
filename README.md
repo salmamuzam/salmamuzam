@@ -5,7 +5,7 @@
 <h3 align="center">A passionate computer science student from Sri Lanka</h3>
 
 
-- 🔭 I’m currently working on building **my personal portfolio**
+- 🔭 I’m currently working on building **a modest fashion e-commerce web application**
 
 - 🌱 I’m currently learning **PHP, MySQL, Flutter, Tailwind CSS**
 
