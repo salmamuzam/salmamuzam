@@ -5,11 +5,11 @@
 <h3 align="center">A passionate computer science student from Sri Lanka</h3>
 
 
-- 🔭 I’m currently working on building **a modest fashion e-commerce web application**
+- 🔭 I’m currently working on building **a full-stack e-commerce web application**
 
-- 🌱 I’m currently learning **PHP, MySQL, Flutter, Tailwind CSS**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C#**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, C#, Tailwind CSS, PHP, Flutter, Dart, Provider**
 
 - 📫 How to reach me **salmamuzam77@gmail.com**
 
