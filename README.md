@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Fathima Salma Muzammil </h1>
 
-<h2 align="center"> A passionate computer science student </h2>
+<h2 align="center"> A passionate computer science student from Sri Lanka </h2>
 
 - 🔭 I'm currently working on **building my personal portflio website**
 
 - 🌱 I'm currently learning **React**
 
-- 💬 Ask me about **Flutter, and Laravel**
+- 💬 Ask me about **Flutter and Laravel**
 
 - 📫 How to reach me **salmamuzam77@gmail.com**
 
