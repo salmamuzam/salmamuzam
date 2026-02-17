@@ -2,7 +2,7 @@
 
 <h2 align="center"> A passionate computer science student from Sri Lanka </h2>
 
-- 🔭 I'm currently working on **building my personal portflio website**
+- 🔭 I'm currently working on **developing my personal portflio website**
 
 - 🌱 I'm currently learning **React**
 
